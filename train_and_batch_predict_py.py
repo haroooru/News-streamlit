@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ElbPmqVBGKy07QLYgVFD9ZpwKXJJ8ONU
 """
 
-pip install pyspark requests streamlit
+
 
 """
 train_and_batch_predict.py
